@@ -14,14 +14,14 @@ htsno,description,general,special,CN_subheading,CN_tariff,hs8,hs6,hs2
 0106.90.01,Other,Free,,9903.88.15,7.5,01069001,010690,01
 0201.10.05,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",9903.88.15,7.5,02011005,020110,02
 0201.10.10,Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,02011010,020110,02
-0201.10.50,Other ,26.4%,"Free (BH,CL,CO,JO,MA,OM,P,PE,S,SG) 5.2% (KR) See 9822.04.01-9822.04.03 (AU) See 9919.02.01-9919.02.02 (PA)",,0.0,02011050,020110,02
+0201.10.50,Other ,26.4%,"Free (BH,CL,CO,JO,MA,OM,P,PE,S,SG) 5.2% (KR) See 9822.04.01-9822.04.03 (AU) See 9919.02.01-9919.02.02 (PA)",9903.88.15,7.5,02011050,020110,02
 0201.20.50,Other,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,02012050,020120,02
-0201.20.80,Other ,26.4%,"Free (BH,CL,CO,JO,MA,OM,P,PE,S,SG) 5.2% (KR) See 9822.04.01-9822.04.03 (AU) See 9919.02.01-9919.02.02 (PA)",,0.0,02012080,020120,02
+0201.20.80,Other ,26.4%,"Free (BH,CL,CO,JO,MA,OM,P,PE,S,SG) 5.2% (KR) See 9822.04.01-9822.04.03 (AU) See 9919.02.01-9919.02.02 (PA)",9903.88.15,7.5,02012080,020120,02
 0201.30.50,Other,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,02013050,020130,02
-0201.30.80,Other ,26.4%,"Free (BH,CL,CO,JO,MA,OM,P,PE,S,SG) 5.2% (KR) See 9822.04.01-9822.04.03 (AU) See 9919.02.01-9919.02.02 (PA)",,0.0,02013080,020130,02
+0201.30.80,Other ,26.4%,"Free (BH,CL,CO,JO,MA,OM,P,PE,S,SG) 5.2% (KR) See 9822.04.01-9822.04.03 (AU) See 9919.02.01-9919.02.02 (PA)",9903.88.15,7.5,02013080,020130,02
 0202.10.05,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",9903.88.15,7.5,02021005,020210,02
 0202.10.10,Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,02021010,020210,02
-0202.10.50,Other ,26.4%,"Free (BH,CL,CO,JO,MA,OM,P,PE,S,SG) 5.2% (KR) See 9822.04.01-9822.04.03 (AU) See 9919.02.01-9919.02.02 (PA)",,0.0,02021050,020210,02
+0202.10.50,Other ,26.4%,"Free (BH,CL,CO,JO,MA,OM,P,PE,S,SG) 5.2% (KR) See 9822.04.01-9822.04.03 (AU) See 9919.02.01-9919.02.02 (PA)",9903.88.15,7.5,02021050,020210,02
 0202.20.50,Other,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,02022050,020220,02
 0202.30.50,Other,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,02023050,020230,02
 0203.12.10,Processed,1.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",9903.88.15,7.5,02031210,020312,02
@@ -128,7 +128,7 @@ htsno,description,general,special,CN_subheading,CN_tariff,hs8,hs6,hs2
 0404.10.50,Described in additional U.S. note 12 to this chapter and entered pursuant to its provisions,3.3¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,04041050,040410,04
 0405.90.05,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,04059005,040590,04
 0405.90.10,Described in additional U.S. note 14 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,04059010,040590,04
-0405.90.20,Other,$1.865/kg + 8.5%,"Free (BH,CL,CO,JO,KR,MA,OM,PE,SG) 37.3¢/kg + 1.7% (P,PA) See 9822.04.10 (AU) See 9823.03.01-9823.03.12 (S+) See 9915.04.05, 9915.04.11, 9915.04.17 (P+)",,0.0,04059020,040590,04
+0405.90.20,Other,$1.865/kg + 8.5%,"Free (BH,CL,CO,JO,KR,MA,OM,PE,SG) 37.3¢/kg + 1.7% (P,PA) See 9822.04.10 (AU) See 9823.03.01-9823.03.12 (S+) See 9915.04.05, 9915.04.11, 9915.04.17 (P+)",9903.88.15,7.5,04059020,040590,04
 0406.20.31,Described in additional U.S.note 18 to this chapter and entered pursuant to its provisions,16%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,04062031,040620,04
 0406.90.08,Described in additional U.S. note 18 to this chapter and entered pursuant to its provisions,12%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,04069008,040690,04
 0407.21.00,Of fowls of the species <i>Gallus domesticus</i>,2.8¢/doz.,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,04072100,040721,04
@@ -274,13 +274,13 @@ htsno,description,general,special,CN_subheading,CN_tariff,hs8,hs6,hs2
 1201.90.00,Other,Free,,9903.88.03,25.0,12019000,120190,12
 1202.41.05,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,9.35¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,12024105,120241,12
 1202.41.40,Described in additional U.S. note 2 to this chapter and entered pursuant to its provisions,9.35¢/kg,"Free (A*,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,12024140,120241,12
-1202.41.80,Other,163.8%,"Free (AU,BH,CL,JO,KR,MA,OM,P,PE,SG) 32.7% (CO) 49.1% (PA) See 9908.12.01 (IL) See 9915.12.05, 9915.12.10, 9915.12.30 (P+) See 9922.01.01-9922.01.12 (S+)",,0.0,12024180,120241,12
+1202.41.80,Other,163.8%,"Free (AU,BH,CL,JO,KR,MA,OM,P,PE,SG) 32.7% (CO) 49.1% (PA) See 9908.12.01 (IL) See 9915.12.05, 9915.12.10, 9915.12.30 (P+) See 9922.01.01-9922.01.12 (S+)",9903.88.15,7.5,12024180,120241,12
 1202.42.10,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,6.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",9903.88.03,25.0,12024210,120242,12
 1202.42.15,Described in additional U.S. note 2 to this chapter and entered pursuant to its provisions,6.6¢/kg,"Free (A*,BH,CA,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",9903.88.03,25.0,12024215,120242,12
-1202.42.20,Other,131.8%,"Free (AU,BH,CL,JO,KR,MA,OM,P,PE,SG) 26.3% (CO) 39.5% (PA) See 9908.12.01 (IL) See 9922.01.01-9922.01.12 (S+)",,0.0,12024220,120242,12
+1202.42.20,Other,131.8%,"Free (AU,BH,CL,JO,KR,MA,OM,P,PE,SG) 26.3% (CO) 39.5% (PA) See 9908.12.01 (IL) See 9922.01.01-9922.01.12 (S+)",9903.88.15,7.5,12024220,120242,12
 1202.42.50,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,6.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",9903.88.15,7.5,12024250,120242,12
 1202.42.60,Described in additional U.S. note 2 to this chapter and entered pursuant to its provisions,6.6¢/kg,"Free (A*,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,12024260,120242,12
-1202.42.90,Other,131.8%,"Free (AU,BH,CL,JO,KR,MA,OM,P,PE,SG) 26.3% (CO) 39.5% (PA) See 9908.12.01 (IL) See 9922.01.01-9922.01.12 (S+)",,0.0,12024290,120242,12
+1202.42.90,Other,131.8%,"Free (AU,BH,CL,JO,KR,MA,OM,P,PE,SG) 26.3% (CO) 39.5% (PA) See 9908.12.01 (IL) See 9922.01.01-9922.01.12 (S+)",9903.88.15,7.5,12024290,120242,12
 1204.00.00,"Flaxseed (linseed), whether or not broken",0.39¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",9903.88.03,25.0,12040000,120400,12
 1205.10.00,Low erucic acid rape or colza seeds,0.58¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",9903.88.03,25.0,12051000,120510,12
 1205.90.00,Other,0.58¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",9903.88.03,25.0,12059000,120590,12
@@ -368,10 +368,10 @@ htsno,description,general,special,CN_subheading,CN_tariff,hs8,hs6,hs2
 1605.54.60,Other,Free,,9903.88.03,25.0,16055460,160554,16
 1701.14.10,Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions,1.4606¢/kg less 0.020668¢/kg for each degree under 100 degrees (and fractions of a degree in proportion) but not less than 0.943854¢/kg,"Free (A*,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG) See 9822.05.15 (P+)",9903.88.15,7.5,17011410,170114,17
 1701.99.10,Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions,3.6606¢/kg less 0.020668¢/kg for each degree under 100 degrees (and fractions of a degree in proportion) but not less than 3.143854¢/kg,"Free (A*,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG) See 9822.05.15 (P+)",9903.88.03,25.0,17019910,170199,17
-1701.99.50,Other,35.74¢/kg,"Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.09.01-9823.09.09 (S+) See 9822.03.01(MA)",,0.0,17019950,170199,17
+1701.99.50,Other,35.74¢/kg,"Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.09.01-9823.09.09 (S+) See 9822.03.01(MA)",9903.88.03,25.0,17019950,170199,17
 1702.20.22,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,6%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,17022022,170220,17
 1702.20.24,Described in additional U.S. note 9 to this chapter and entered pursuant to its provisions,6%,"Free (OM,PE,S)",9903.88.15,7.5,17022024,170220,17
-1702.20.28,Other,16.9¢/kg of total sugars + 5.1%,"Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01 (MA)",,0.0,17022028,170220,17
+1702.20.28,Other,16.9¢/kg of total sugars + 5.1%,"Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01 (MA)",9903.88.15,7.5,17022028,170220,17
 1702.20.40,Other,Free,,9903.88.15,7.5,17022040,170220,17
 1702.30.40,Other,2.2¢/kg,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,17023040,170230,17
 1702.60.40,Other,5.1%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,17026040,170260,17
@@ -452,20 +452,20 @@ htsno,description,general,special,CN_subheading,CN_tariff,hs8,hs6,hs2
 2202.10.00,"Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavored",0.2¢/liter,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,22021000,220210,22
 2202.91.00,Non-alcoholic beer,0.2¢/liter,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,22029100,220291,22
 2202.99.91,Other,0.2¢/liter,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,22029991,220299,22
-2203.00.00,Beer made from malt,Free,,,0.0,22030000,220300,22
-2204.10.00,Sparkling wine,19.8¢/liter,"Free (A,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG)8.8¢/liter(JO)",,0.0,22041000,220410,22
-2204.21.50,Other,6.3¢/liter,"Free (A+,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG) 2.8¢/liter (JO)",,0.0,22042150,220421,22
-2204.21.80,Other,16.9¢/liter,"Free (A,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG)7.5¢/liter(JO)",,0.0,22042180,220421,22
-2204.22.20,Of an alcoholic strength by volume not over 14 percent vol,8.4¢/liter,"Free (A+,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG) 3.7¢/liter (JO)",,0.0,22042220,220422,22
-2206.00.15,"Cider, whether still or sparkling",0.4¢/liter,"Free (A,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG)0.1¢/liter(JO)",,0.0,22060015,220600,22
-2206.00.90,Other,4.2¢/liter,"Free (A,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG)1.8¢/liter(JO)",,0.0,22060090,220600,22
-2207.10.60,For nonbeverage purposes,2.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PE,S,SG) See 9822.09.22-9822.09.24 (PA)",,0.0,22071060,220710,22
-2207.20.00,"Ethyl alcohol and other spirits, denatured, of any strength",1.9%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PE,S,SG) See 9822.09.22-9822.09.24 (PA)",,0.0,22072000,220720,22
-2208.30.30,Irish and Scotch,Free,,,0.0,22083030,220830,22
-2208.30.60,Other,Free,,,0.0,22083060,220830,22
-2208.50.00,Gin and Geneve,Free,,,0.0,22085000,220850,22
-2208.70.00,Liqueurs and cordials,Free,,,0.0,22087000,220870,22
-2208.90.46,Kirschwasser and ratafia,Free,,,0.0,22089046,220890,22
+2203.00.00,Beer made from malt,Free,,9903.88.03,25.0,22030000,220300,22
+2204.10.00,Sparkling wine,19.8¢/liter,"Free (A,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG)8.8¢/liter(JO)",9903.88.03,25.0,22041000,220410,22
+2204.21.50,Other,6.3¢/liter,"Free (A+,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG) 2.8¢/liter (JO)",9903.88.03,25.0,22042150,220421,22
+2204.21.80,Other,16.9¢/liter,"Free (A,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG)7.5¢/liter(JO)",9903.88.03,25.0,22042180,220421,22
+2204.22.20,Of an alcoholic strength by volume not over 14 percent vol,8.4¢/liter,"Free (A+,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG) 3.7¢/liter (JO)",9903.88.15,7.5,22042220,220422,22
+2206.00.15,"Cider, whether still or sparkling",0.4¢/liter,"Free (A,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG)0.1¢/liter(JO)",9903.88.15,7.5,22060015,220600,22
+2206.00.90,Other,4.2¢/liter,"Free (A,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG)1.8¢/liter(JO)",9903.88.03,25.0,22060090,220600,22
+2207.10.60,For nonbeverage purposes,2.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PE,S,SG) See 9822.09.22-9822.09.24 (PA)",9903.88.03,25.0,22071060,220710,22
+2207.20.00,"Ethyl alcohol and other spirits, denatured, of any strength",1.9%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PE,S,SG) See 9822.09.22-9822.09.24 (PA)",9903.88.15,7.5,22072000,220720,22
+2208.30.30,Irish and Scotch,Free,,9903.88.15,7.5,22083030,220830,22
+2208.30.60,Other,Free,,9903.88.15,7.5,22083060,220830,22
+2208.50.00,Gin and Geneve,Free,,9903.88.15,7.5,22085000,220850,22
+2208.70.00,Liqueurs and cordials,Free,,9903.88.15,7.5,22087000,220870,22
+2208.90.46,Kirschwasser and ratafia,Free,,9903.88.15,7.5,22089046,220890,22
 2208.90.80,Other,21.1¢/pf.liter,"Free (A,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG)9.3¢/pf.liter(JO)",,0.0,22089080,220890,22
 2301.20.00,"Flours, meals and pellets, of fish or of crustaceans, molluscs or other aquatic invertebrates",Free,,9903.88.03,25.0,23012000,230120,23
 2302.30.00,Of wheat,Free,,9903.88.03,25.0,23023000,230230,23
@@ -479,10 +479,10 @@ htsno,description,general,special,CN_subheading,CN_tariff,hs8,hs6,hs2
 2309.90.10,Mixed feeds or mixed feed ingredients,Free,,9903.88.03,25.0,23099010,230990,23
 2309.90.22,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,7.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,23099022,230990,23
 2309.90.24,Described in additional U.S. note 2 to this chapter and entered pursuant to its provisions,7.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,23099024,230990,23
-2309.90.28,Other,80.4¢/kg + 6.4%,"Free (BH,CL,JO,KR,MA,OM,PE,SG) 16¢/kg + 1.2% (CO,P,PA) See 9822.04.20 (AU) See 9823.05.01-9823.05.06 (S+) See 9915.04.20, 9915.04.24, 9915.04.28 (P+)",,0.0,23099028,230990,23
+2309.90.28,Other,80.4¢/kg + 6.4%,"Free (BH,CL,JO,KR,MA,OM,PE,SG) 16¢/kg + 1.2% (CO,P,PA) See 9822.04.20 (AU) See 9823.05.01-9823.05.06 (S+) See 9915.04.20, 9915.04.24, 9915.04.28 (P+)",9903.88.15,7.5,23099028,230990,23
 2309.90.42,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,7.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,23099042,230990,23
 2309.90.44,Described in additional U.S. note 2 to this chapter and entered pursuant to its provisions,7.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,23099044,230990,23
-2309.90.48,Other,80.4¢/kg + 6.4%,"Free (BH,CL,JO,KR,MA,OM,PA,PE,SG) 16¢/kg + 1.2% (CO,P) See 9822.04.20 (AU) See 9823.05.01-9823.05.06 (S+) See 9915.04.20, 9915.04.24, 9915.04.28 (P+)",,0.0,23099048,230990,23
+2309.90.48,Other,80.4¢/kg + 6.4%,"Free (BH,CL,JO,KR,MA,OM,PA,PE,SG) 16¢/kg + 1.2% (CO,P) See 9822.04.20 (AU) See 9823.05.01-9823.05.06 (S+) See 9915.04.20, 9915.04.24, 9915.04.28 (P+)",9903.88.15,7.5,23099048,230990,23
 2401.10.21,Wrapper tobacco,Free,,9903.88.15,7.5,24011021,240110,24
 2401.10.29,Other,Free,,9903.88.15,7.5,24011029,240110,24
 2401.10.53,Cigar binder and filler,Free,,9903.88.15,7.5,24011053,240110,24
@@ -507,9 +507,9 @@ htsno,description,general,special,CN_subheading,CN_tariff,hs8,hs6,hs2
 2401.30.35,"Cut, ground or pulverized",97¢/kg,"Free (A+,BH,CL,CO,D,E,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,24013035,240130,24
 2401.30.37,Other,28.4¢/kg,"Free (A+,BH,CL,CO,D,E,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,24013037,240130,24
 2401.30.70,Other,350%,"Free (AU,BH,CL,IL,KR,MA,OM,P,PE,S,SG) 105% (PA) See 9918.24.10-9918.24.11 (CO)",9903.88.03,25.0,24013070,240130,24
-2402.10.30,Each valued less than 15¢,$1.89/kg + 4.7%,"Free (A+,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG)",,0.0,24021030,240210,24
-2402.10.80,Each valued 23¢ or over,57¢/kg + 1.4%,"Free (A,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG)",,0.0,24021080,240210,24
-2403.19.20,Prepared for marketing to the ultimate consumer in the identical form and package in which imported,32.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,KR,MA, OM,P,PA,PE,S,SG)",,0.0,24031920,240319,24
+2402.10.30,Each valued less than 15¢,$1.89/kg + 4.7%,"Free (A+,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,24021030,240210,24
+2402.10.80,Each valued 23¢ or over,57¢/kg + 1.4%,"Free (A,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,24021080,240210,24
+2403.19.20,Prepared for marketing to the ultimate consumer in the identical form and package in which imported,32.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,KR,MA, OM,P,PA,PE,S,SG)",9903.88.03,25.0,24031920,240319,24
 2403.19.30,To be used in products other than cigarettes,32.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,24031930,240319,24
 2403.19.60,Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions,32.8¢/kg,"Free (A+,BH,CL,CO,D,E,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,24031960,240319,24
 2403.19.90,Other,350%,"Free (AU,BH,CL,IL,KR,MA,OM,P,PE,S,SG) 105% (PA) See 9918.24.10-9918.24.11 (CO)",9903.88.03,25.0,24031990,240319,24
@@ -583,7 +583,7 @@ htsno,description,general,special,CN_subheading,CN_tariff,hs8,hs6,hs2
 2811.19.61,Other,4.2%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,28111961,281119,28
 2812.90.00,Other,3.7%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,28129000,281290,28
 2815.20.00,Potassium hydroxide (Caustic potash),Free,,9903.88.03,25.0,28152000,281520,28
-2818.10.20,"In grains, or ground, pulverized or refined",1.3%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",,0.0,28181020,281810,28
+2818.10.20,"In grains, or ground, pulverized or refined",1.3%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,28181020,281810,28
 2821.10.00,Iron oxides and hydroxides,3.7%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,28211000,282110,28
 2825.30.00,Vanadium oxides and hydroxides,5.5%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,28253000,282530,28
 2833.11.50,Other,0.4%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,28331150,283311,28
@@ -774,7 +774,7 @@ htsno,description,general,special,CN_subheading,CN_tariff,hs8,hs6,hs2
 3916.20.00,Of polymers of vinyl chloride,5.8%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.02,25.0,39162000,391620,39
 3917.29.00,Of other plastics,3.1%,"Free (A,AU,B,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.02,25.0,39172900,391729,39
 3917.32.00,"Other, not reinforced or otherwise combined with other materials, without fittings",3.1%,"Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.02,25.0,39173200,391732,39
-3917.39.00,Other,3.1%,"Free (A*,AU,B,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",,0.0,39173900,391739,39
+3917.39.00,Other,3.1%,"Free (A*,AU,B,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,39173900,391739,39
 3917.40.00,Fittings,5.3%,"Free (A,AU,B,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.02,25.0,39174000,391740,39
 3918.10.10,Vinyl tile,5.3%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,39181010,391810,39
 3918.10.31,Over 70 percent by weight of plastics,4.2%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,39181031,391810,39
@@ -790,8 +790,8 @@ htsno,description,general,special,CN_subheading,CN_tariff,hs8,hs6,hs2
 3921.13.19,Other,5.3%,"Free (A+,AU,B,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.02,25.0,39211319,392113,39
 3921.90.19,Other,5.3%,"Free (A+,AU,B,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.02,25.0,39219019,392190,39
 3921.90.25,Products with textile components in which man-made fibers predominate by weight over any other single textile fiber,6.5%,"Free (AU,BH,CL,E*,IL,J*,JO,KR,MA,OM,P,PE,S,SG)",9903.88.02,25.0,39219025,392190,39
-3921.90.40,Flexible,4.2%,"Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",,0.0,39219040,392190,39
-3921.90.50,Other,4.8%,"Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",,0.0,39219050,392190,39
+3921.90.40,Flexible,4.2%,"Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.02,25.0,39219040,392190,39
+3921.90.50,Other,4.8%,"Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.02,25.0,39219050,392190,39
 3923.21.00,Of polymers of ethylene,3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,39232100,392321,39
 3923.30.00,"Carboys, bottles, flasks and similar articles",3%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,39233000,392330,39
 3923.40.00,"Spools, cops, bobbins and similar supports",5.3%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,39234000,392340,39
@@ -1962,7 +1962,7 @@ htsno,description,general,special,CN_subheading,CN_tariff,hs8,hs6,hs2
 6505.00.60,Not in part of braid,20¢/kg + 7%,"Free (AU,BH, CL,CO,IL,JO,KR, MA,NP,OM,P, PA,PE,S,SG)",9903.88.03,25.0,65050060,650500,65
 6505.00.70,Wholly or in part of braid,6.8%,"Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",9903.88.03,25.0,65050070,650500,65
 6505.00.80,Not in part of braid,18.7¢/kg + 6.8%,"Free (AU,BH, CL,CO,IL,JO,KR, MA,NP,OM,P, PA,PE,S,SG)",9903.88.03,25.0,65050080,650500,65
-6505.00.90,Other,20.7¢/kg + 7.5%,"Free (AU,BH, CL,CO,IL, JO,KR,MA,NP,OM,P, PA,PE,S,SG)",,0.0,65050090,650500,65
+6505.00.90,Other,20.7¢/kg + 7.5%,"Free (AU,BH, CL,CO,IL, JO,KR,MA,NP,OM,P, PA,PE,S,SG)",9903.88.03,25.0,65050090,650500,65
 6506.10.30,Of reinforced or laminated plastics,Free,,9903.88.15,7.5,65061030,650610,65
 6506.10.60,Other,Free,,9903.88.15,7.5,65061060,650610,65
 6506.91.00,Of rubber or plastics,Free,,9903.88.03,25.0,65069100,650691,65
@@ -2334,8 +2334,8 @@ htsno,description,general,special,CN_subheading,CN_tariff,hs8,hs6,hs2
 7606.92.60,Clad,6.5%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,76069260,760692,76
 7607.11.60,Of a thickness exceeding <il>0.01 mm</il>,5.3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,76071160,760711,76
 7607.11.90,Other,3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,76071190,760711,76
-7608.10.00,"Of aluminum, not alloyed",5.7%,"Free (A,AU,B,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",,0.0,76081000,760810,76
-7608.20.00,Of aluminum alloys,5.7%,"Free (A,AU,B,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",,0.0,76082000,760820,76
+7608.10.00,"Of aluminum, not alloyed",5.7%,"Free (A,AU,B,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,76081000,760810,76
+7608.20.00,Of aluminum alloys,5.7%,"Free (A,AU,B,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,76082000,760820,76
 7610.10.00,"Doors, windows and their frames and thresholds for doors",5.7%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,76101000,761010,76
 7610.90.00,Other,5.7%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,76109000,761090,76
 7611.00.00,"Aluminum reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 liters, whether or not lined or heat insulated, but not fitted with mechanical or thermal equipment",2.6%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,76110000,761100,76
@@ -3054,103 +3054,103 @@ htsno,description,general,special,CN_subheading,CN_tariff,hs8,hs6,hs2
 9032.81.00,Hydraulic and pneumatic,Free,,9903.88.01,25.0,90328100,903281,90
 9032.89.60,Other,1.7%,"Free (A,AU,B,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.01,25.0,90328960,903289,90
 9032.90.61,Other,1.7%,"Free (A,AU,B,BH,C,CL,CO,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.01,25.0,90329061,903290,90
-9101.11.40,Having no jewels or only one jewel in the movement,"51¢ each + 6.25% on the case and strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",,0.0,91011140,910111,91
-9101.11.80,Other,"87¢ each + 6.25% on the case and strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",,0.0,91011180,910111,91
+9101.11.40,Having no jewels or only one jewel in the movement,"51¢ each + 6.25% on the case and strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",9903.88.15,7.5,91011140,910111,91
+9101.11.80,Other,"87¢ each + 6.25% on the case and strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",9903.88.15,7.5,91011180,910111,91
 9101.19.20,With opto-electronic display only.,Free,,9903.88.15,7.5,91011920,910119,91
-9101.19.40,"Other, having no jewels or only one jewel in the movement","41¢ each + 5% on case and strap, band or bracelet + 4.2% on the battery","Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91011940,910119,91
-9101.19.80,Other,"61¢ each + 4.4% on case and strap, band or bracelet + 3.7% on the battery","Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",,0.0,91011980,910119,91
-9101.21.50,Other,Free,,,0.0,91012150,910121,91
-9101.21.80,Other,"$1.61 each + 4.4% on the case and strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",,0.0,91012180,910121,91
-9101.29.10,Having no jewels or only one jewel in the movement,"40¢ each + 5% on the case and strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",,0.0,91012910,910129,91
-9101.29.20,Having over 1 jewel but not over 7 jewels in the movement,"61¢ each + 4.4% on the case and strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",,0.0,91012920,910129,91
-9101.29.30,With movement measuring not over 15.2 mm,"$2.28 each + 5% on the case and strap, band or bracelet","Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91012930,910129,91
-9101.29.40,With movement measuring over 15.2 mm,"$1.92 each + 5% on the case and strap, band or bracelet","Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91012940,910129,91
-9101.29.50,With movement valued over $15 each,"90¢ each + 4.4% on the case and strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",,0.0,91012950,910129,91
-9101.29.90,Other,Free,,,0.0,91012990,910129,91
+9101.19.40,"Other, having no jewels or only one jewel in the movement","41¢ each + 5% on case and strap, band or bracelet + 4.2% on the battery","Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",9903.88.15,7.5,91011940,910119,91
+9101.19.80,Other,"61¢ each + 4.4% on case and strap, band or bracelet + 3.7% on the battery","Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",9903.88.15,7.5,91011980,910119,91
+9101.21.50,Other,Free,,9903.88.15,7.5,91012150,910121,91
+9101.21.80,Other,"$1.61 each + 4.4% on the case and strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",9903.88.15,7.5,91012180,910121,91
+9101.29.10,Having no jewels or only one jewel in the movement,"40¢ each + 5% on the case and strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",9903.88.15,7.5,91012910,910129,91
+9101.29.20,Having over 1 jewel but not over 7 jewels in the movement,"61¢ each + 4.4% on the case and strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",9903.88.15,7.5,91012920,910129,91
+9101.29.30,With movement measuring not over 15.2 mm,"$2.28 each + 5% on the case and strap, band or bracelet","Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",9903.88.15,7.5,91012930,910129,91
+9101.29.40,With movement measuring over 15.2 mm,"$1.92 each + 5% on the case and strap, band or bracelet","Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",9903.88.15,7.5,91012940,910129,91
+9101.29.50,With movement valued over $15 each,"90¢ each + 4.4% on the case and strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",9903.88.15,7.5,91012950,910129,91
+9101.29.90,Other,Free,,9903.88.15,7.5,91012990,910129,91
 9101.91.40,Having no jewels or only one jewel in the movement,Free,,,0.0,91019140,910191,91
-9101.91.80,Other,Free,,,0.0,91019180,910191,91
-9101.99.20,Having no jewels or not over 7 jewels in the movement,Free,,,0.0,91019920,910199,91
+9101.91.80,Other,Free,,9903.88.15,7.5,91019180,910191,91
+9101.99.20,Having no jewels or not over 7 jewels in the movement,Free,,9903.88.15,7.5,91019920,910199,91
 9101.99.40,With movement valued not over $15 each,98¢ each + 3% on the case,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91019940,910199,91
-9101.99.60,With movement valued over $15 each,Free,,,0.0,91019960,910199,91
-9101.99.80,Having over 17 jewels in the movement,Free,,,0.0,91019980,910199,91
-9102.11.10,With gold- or silver-plated case,"44¢ each + 6% on the case + 14% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91021110,910211,91
-9102.11.25,Other,"40¢ each + 8.5% on the case + 14% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91021125,910211,91
-9102.11.30,With gold- or silver-plated case,"44¢ each + 6% on the case + 2.8% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91021130,910211,91
-9102.11.45,Other,"40¢ each + 8.5% on the case + 2.8% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91021145,910211,91
-9102.11.50,With gold- or silver-plated case,"80¢ each + 6% on the case + 14% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91021150,910211,91
-9102.11.65,Other,"76¢ each + 8.5% on the case + 14% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91021165,910211,91
-9102.11.70,With gold- or silver-plated case,"80¢ each + 6% on the case + 2.8% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",,0.0,91021170,910211,91
-9102.11.95,Other,"76¢ each + 8.5% on the case + 2.8% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91021195,910211,91
-9102.19.20,"With strap, band or bracelet of textile material or of base metal, whether or not gold-or silver-plated","32¢ each + 4.8% on the case + 11% on the strap, band or bracelet + 4.2% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91021920,910219,91
-9102.19.40,Other,"32¢ each + 4.8% on the case + 2.2% on the strap, band or bracelet + 4.2% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91021940,910219,91
-9102.19.60,"With strap, band or bracelet of textile material or of base metal, whether or not gold-or silver-plated","57¢ each + 4.5% on the case + 10.6% on the strap, band or bracelet + 4% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",,0.0,91021960,910219,91
-9102.19.80,Other,"57¢ each + 4.5% on the case + 2.1% on the strap, band or bracelet + 4% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91021980,910219,91
-9102.21.10,"With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated","75¢ each + 6% on the case + 14% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91022110,910221,91
-9102.21.25,Other,"75¢ each + 6% on the case + 2.8% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91022125,910221,91
-9102.21.30,"With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated","$1.75 each + 4.8% on the case + 11.2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91022130,910221,91
-9102.21.50,Other,"$1.75 each + 4.8% on the case + 2.2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91022150,910221,91
-9102.21.70,"With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated","$1.53 each + 4.2% on the case + 9.8% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91022170,910221,91
-9102.21.90,Other,"$1.53 each + 4.2% on the case + 2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91022190,910221,91
-9102.29.04,Other,40¢ each + 6% on the case,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91022904,910229,91
-9102.29.10,Other,"40¢ each + 6% on the case + 2.8% on the strap, band or bracelet","Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91022910,910229,91
+9101.99.60,With movement valued over $15 each,Free,,9903.88.15,7.5,91019960,910199,91
+9101.99.80,Having over 17 jewels in the movement,Free,,9903.88.15,7.5,91019980,910199,91
+9102.11.10,With gold- or silver-plated case,"44¢ each + 6% on the case + 14% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91021110,910211,91
+9102.11.25,Other,"40¢ each + 8.5% on the case + 14% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91021125,910211,91
+9102.11.30,With gold- or silver-plated case,"44¢ each + 6% on the case + 2.8% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91021130,910211,91
+9102.11.45,Other,"40¢ each + 8.5% on the case + 2.8% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",9903.88.15,7.5,91021145,910211,91
+9102.11.50,With gold- or silver-plated case,"80¢ each + 6% on the case + 14% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91021150,910211,91
+9102.11.65,Other,"76¢ each + 8.5% on the case + 14% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91021165,910211,91
+9102.11.70,With gold- or silver-plated case,"80¢ each + 6% on the case + 2.8% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",9903.88.15,7.5,91021170,910211,91
+9102.11.95,Other,"76¢ each + 8.5% on the case + 2.8% on the strap, band or bracelet + 5.3% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91021195,910211,91
+9102.19.20,"With strap, band or bracelet of textile material or of base metal, whether or not gold-or silver-plated","32¢ each + 4.8% on the case + 11% on the strap, band or bracelet + 4.2% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91021920,910219,91
+9102.19.40,Other,"32¢ each + 4.8% on the case + 2.2% on the strap, band or bracelet + 4.2% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91021940,910219,91
+9102.19.60,"With strap, band or bracelet of textile material or of base metal, whether or not gold-or silver-plated","57¢ each + 4.5% on the case + 10.6% on the strap, band or bracelet + 4% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",9903.88.15,7.5,91021960,910219,91
+9102.19.80,Other,"57¢ each + 4.5% on the case + 2.1% on the strap, band or bracelet + 4% on the battery","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91021980,910219,91
+9102.21.10,"With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated","75¢ each + 6% on the case + 14% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91022110,910221,91
+9102.21.25,Other,"75¢ each + 6% on the case + 2.8% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91022125,910221,91
+9102.21.30,"With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated","$1.75 each + 4.8% on the case + 11.2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91022130,910221,91
+9102.21.50,Other,"$1.75 each + 4.8% on the case + 2.2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91022150,910221,91
+9102.21.70,"With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated","$1.53 each + 4.2% on the case + 9.8% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91022170,910221,91
+9102.21.90,Other,"$1.53 each + 4.2% on the case + 2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91022190,910221,91
+9102.29.04,Other,40¢ each + 6% on the case,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",9903.88.15,7.5,91022904,910229,91
+9102.29.10,Other,"40¢ each + 6% on the case + 2.8% on the strap, band or bracelet","Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",9903.88.15,7.5,91022910,910229,91
 9102.29.15,"With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated","58¢ each + 4.6% on the case + 10.6% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91022915,910229,91
-9102.29.20,Other,"56¢ each + 4.4% on the case + 2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",,0.0,91022920,910229,91
-9102.29.25,"With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver- plated","$2.19 each + 4.8% on the case + 11.2% on the strap, band or bracelet","Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91022925,910229,91
-9102.29.30,Other,"$2.19 each + 4.8% on the case + 2.2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91022930,910229,91
-9102.29.35,"With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver- plated","$1.61 each + 4.2% on the case + 9.8% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",,0.0,91022935,910229,91
-9102.29.40,Other,"$1.83 each + 4.8% on the case + 2.2% on the strap, band or bracelet","Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91022940,910229,91
-9102.29.45,"With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated","93¢ each + 4.8% on the case + 11.2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91022945,910229,91
-9102.29.50,Other,"93¢ each + 4.8% on the case + 2.2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91022950,910229,91
-9102.29.55,"With strap, band or bracelet of textile material or of base metal, whether or not gold-or silver-plated","$1.55 each + 4.2% on the case + 9.9% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91022955,910229,91
-9102.29.60,Other,"$1.75 each + 4.8% on the case + 2.2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91022960,910229,91
-9102.91.20,With opto-electronic display only,3.9% on the movement and case + 5.3% on the battery,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91029120,910291,91
-9102.91.40,Having no jewels or only one jewel in the movement,40¢ each + 6% on the case + 5.3% on the battery,"Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91029140,910291,91
-9102.91.80,Other,76¢ each + 6% on the case + 5.3% on the battery,"Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",,0.0,91029180,910291,91
-9102.99.20,Having no jewels or not over 7 jewels in the movement,20¢ each + 3% on the case,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91029920,910299,91
-9102.99.40,With movement valued not over $15 each,92¢ each + 3% on the case,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91029940,910299,91
-9102.99.60,With movement valued over $15 each,$1.16 each + 6% on the case,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91029960,910299,91
-9102.99.80,Having over 17 jewels in the movement,$2.19 each + 6% on the case,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91029980,910299,91
+9102.29.20,Other,"56¢ each + 4.4% on the case + 2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",9903.88.15,7.5,91022920,910229,91
+9102.29.25,"With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver- plated","$2.19 each + 4.8% on the case + 11.2% on the strap, band or bracelet","Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",9903.88.15,7.5,91022925,910229,91
+9102.29.30,Other,"$2.19 each + 4.8% on the case + 2.2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91022930,910229,91
+9102.29.35,"With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver- plated","$1.61 each + 4.2% on the case + 9.8% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",9903.88.15,7.5,91022935,910229,91
+9102.29.40,Other,"$1.83 each + 4.8% on the case + 2.2% on the strap, band or bracelet","Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",9903.88.15,7.5,91022940,910229,91
+9102.29.45,"With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated","93¢ each + 4.8% on the case + 11.2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91022945,910229,91
+9102.29.50,Other,"93¢ each + 4.8% on the case + 2.2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91022950,910229,91
+9102.29.55,"With strap, band or bracelet of textile material or of base metal, whether or not gold-or silver-plated","$1.55 each + 4.2% on the case + 9.9% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91022955,910229,91
+9102.29.60,Other,"$1.75 each + 4.8% on the case + 2.2% on the strap, band or bracelet","Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91022960,910229,91
+9102.91.20,With opto-electronic display only,3.9% on the movement and case + 5.3% on the battery,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",9903.88.15,7.5,91029120,910291,91
+9102.91.40,Having no jewels or only one jewel in the movement,40¢ each + 6% on the case + 5.3% on the battery,"Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",9903.88.15,7.5,91029140,910291,91
+9102.91.80,Other,76¢ each + 6% on the case + 5.3% on the battery,"Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",9903.88.15,7.5,91029180,910291,91
+9102.99.20,Having no jewels or not over 7 jewels in the movement,20¢ each + 3% on the case,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",9903.88.15,7.5,91029920,910299,91
+9102.99.40,With movement valued not over $15 each,92¢ each + 3% on the case,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",9903.88.15,7.5,91029940,910299,91
+9102.99.60,With movement valued over $15 each,$1.16 each + 6% on the case,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",9903.88.15,7.5,91029960,910299,91
+9102.99.80,Having over 17 jewels in the movement,$2.19 each + 6% on the case,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",9903.88.15,7.5,91029980,910299,91
 9103.10.20,With opto-electronic display only,2.6% on the movement and case + 3.6% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",,0.0,91031020,910310,91
 9103.10.40,Having no jewels or only one jewel in the movement,24¢ each + 4.5% on the case + 3.5% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",,0.0,91031040,910310,91
-9103.10.80,Other,48¢ each + 4.6% on the case + 3.5% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",,0.0,91031080,910310,91
-9103.90.00,Other,24¢ each + 4.6% on the case,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",,0.0,91039000,910390,91
-9104.00.05,With opto-electronic display only,2.6% on the movement and case + 3.5% on the battery,"Free (A+,AU,B,BH, C,CL,CO,D,E, IL,JO,KR, MA,OM,P, PA,PE,S,SG)",,0.0,91040005,910400,91
-9104.00.10,Electric (including battery operated),20¢ each + 4.3% on the movement and case + 3.5% on the battery,"Free (A+,AU,B,BH, C,CL,CO,D,E, IL,JO,KR,MA,OM,P, PA,PE,S,SG)",,0.0,91040010,910400,91
-9104.00.25,With opto-electronic display only,3.9% on the movement and case + 5.3% on the battery,"Free (A+,AU,B,BH, C,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",,0.0,91040025,910400,91
-9104.00.30,Electric (including battery operated),30¢ each + 4.3% on the movement and case + 3.5% on the battery,"Free (A+,AU,B,BH, C,CL,CO,D, E,IL,JO,KR,MA,OM,P, PA,PE,S,SG)",,0.0,91040030,910400,91
-9104.00.45,With opto-electronic display only,2.6% on the movement and case + 3.5% on the battery,"Free (A+,AU,B,BH, C,CL,CO,D, E,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",,0.0,91040045,910400,91
-9104.00.50,Electric (including battery operated),20¢ each + 4.6% on the case + 3.5% on the battery,"Free (A+,AU,B,BH, C,CL,CO,D, E,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",,0.0,91040050,910400,91
-9104.00.60,Other,19¢ each + 4.5% on the case,"Free (A+,AU,B,BH, C,CL,CO,D, E,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",,0.0,91040060,910400,91
+9103.10.80,Other,48¢ each + 4.6% on the case + 3.5% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",9903.88.15,7.5,91031080,910310,91
+9103.90.00,Other,24¢ each + 4.6% on the case,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",9903.88.15,7.5,91039000,910390,91
+9104.00.05,With opto-electronic display only,2.6% on the movement and case + 3.5% on the battery,"Free (A+,AU,B,BH, C,CL,CO,D,E, IL,JO,KR, MA,OM,P, PA,PE,S,SG)",9903.88.03,25.0,91040005,910400,91
+9104.00.10,Electric (including battery operated),20¢ each + 4.3% on the movement and case + 3.5% on the battery,"Free (A+,AU,B,BH, C,CL,CO,D,E, IL,JO,KR,MA,OM,P, PA,PE,S,SG)",9903.88.03,25.0,91040010,910400,91
+9104.00.25,With opto-electronic display only,3.9% on the movement and case + 5.3% on the battery,"Free (A+,AU,B,BH, C,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",9903.88.03,25.0,91040025,910400,91
+9104.00.30,Electric (including battery operated),30¢ each + 4.3% on the movement and case + 3.5% on the battery,"Free (A+,AU,B,BH, C,CL,CO,D, E,IL,JO,KR,MA,OM,P, PA,PE,S,SG)",9903.88.03,25.0,91040030,910400,91
+9104.00.45,With opto-electronic display only,2.6% on the movement and case + 3.5% on the battery,"Free (A+,AU,B,BH, C,CL,CO,D, E,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",9903.88.03,25.0,91040045,910400,91
+9104.00.50,Electric (including battery operated),20¢ each + 4.6% on the case + 3.5% on the battery,"Free (A+,AU,B,BH, C,CL,CO,D, E,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",9903.88.03,25.0,91040050,910400,91
+9104.00.60,Other,19¢ each + 4.5% on the case,"Free (A+,AU,B,BH, C,CL,CO,D, E,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",9903.88.15,7.5,91040060,910400,91
 9105.11.40,With opto-electronic display only,3.9% on the movement and case + 5.3% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",,0.0,91051140,910511,91
 9105.11.80,Other,30¢ each + 6.9% on the case + 5.3% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",,0.0,91051180,910511,91
-9105.19.10,Not constructed or designed to operate for over 47 hours without rewinding,30¢ each + 6.9% on the case,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",,0.0,91051910,910519,91
-9105.19.20,Having no jewels or only one jewel,60¢ each + 6.9% on the case,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR, MA,OM,P, PA,PE,S,SG)",,0.0,91051920,910519,91
-9105.19.30,Having over one jewel,43¢ each + 2.8¢/jewel over 7 + 3.7% on the case,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR, MA,OM,P, PA,PE,S,SG)",,0.0,91051930,910519,91
+9105.19.10,Not constructed or designed to operate for over 47 hours without rewinding,30¢ each + 6.9% on the case,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,91051910,910519,91
+9105.19.20,Having no jewels or only one jewel,60¢ each + 6.9% on the case,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR, MA,OM,P, PA,PE,S,SG)",9903.88.15,7.5,91051920,910519,91
+9105.19.30,Having over one jewel,43¢ each + 2.8¢/jewel over 7 + 3.7% on the case,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR, MA,OM,P, PA,PE,S,SG)",9903.88.15,7.5,91051930,910519,91
 9105.21.40,With opto-electronic display only,3.9% on the movement and case+ 5.3% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",,0.0,91052140,910521,91
 9105.21.80,Other,30¢ each + 6.9% on the case + 5.3% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",,0.0,91052180,910521,91
-9105.29.10,Not constructed or designed to operate for over 47 hours without rewinding,20¢ each + 4.6% on the case,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",,0.0,91052910,910529,91
-9105.29.20,Having no jewels or only one jewel,40¢ each + 4.6% on the case,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",,0.0,91052920,910529,91
-9105.29.30,Having over one jewel,57¢ each + 3.7¢/jewel over 7 + 4.9% on the case,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",,0.0,91052930,910529,91
+9105.29.10,Not constructed or designed to operate for over 47 hours without rewinding,20¢ each + 4.6% on the case,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",9903.88.15,7.5,91052910,910529,91
+9105.29.20,Having no jewels or only one jewel,40¢ each + 4.6% on the case,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",9903.88.15,7.5,91052920,910529,91
+9105.29.30,Having over one jewel,57¢ each + 3.7¢/jewel over 7 + 4.9% on the case,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",9903.88.15,7.5,91052930,910529,91
 9105.91.40,With opto-electronic display only,3.9% on the movement and case+ 5.3% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",,0.0,91059140,910591,91
 9105.91.80,Other,30¢ each + 6.9% on the case + 5.3% on the battery,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P, PA,PE,S,SG)",,0.0,91059180,910591,91
-9105.99.20,Not constructed or designed to operate for over 47 hours without rewinding,Free,,,0.0,91059920,910599,91
-9105.99.30,Having no jewels or only one jewel,Free,,,0.0,91059930,910599,91
-9105.99.40,Having over one jewel,Free,,,0.0,91059940,910599,91
+9105.99.20,Not constructed or designed to operate for over 47 hours without rewinding,Free,,9903.88.15,7.5,91059920,910599,91
+9105.99.30,Having no jewels or only one jewel,Free,,9903.88.15,7.5,91059930,910599,91
+9105.99.40,Having over one jewel,Free,,9903.88.15,7.5,91059940,910599,91
 9106.90.55,With opto-electronic display only,3.9% on the apparatus + 5.3% on the battery,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,91069055,910690,91
 9107.00.40,Valued not over $5 each,15¢ each + 4% + 2.5¢/jewel,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,91070040,910700,91
-9108.11.40,Having no jewels or only one jewel,36¢ each + 5.3% on the battery,"Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",,0.0,91081140,910811,91
-9108.11.80,Other,72¢ each + 5.3% on the battery,"Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",,0.0,91081180,910811,91
+9108.11.40,Having no jewels or only one jewel,36¢ each + 5.3% on the battery,"Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",9903.88.15,7.5,91081140,910811,91
+9108.11.80,Other,72¢ each + 5.3% on the battery,"Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",9903.88.15,7.5,91081180,910811,91
 9108.12.00,With opto-electronic display only,3.1% on the movement + 4.2% on the battery,"Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",,0.0,91081200,910812,91
-9108.19.40,Having no jewels or only one jewel,28¢ each + 4.2% on the battery,"Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",,0.0,91081940,910819,91
-9108.19.80,Other,53¢ each + 3.9% on the battery,"Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",,0.0,91081980,910819,91
+9108.19.40,Having no jewels or only one jewel,28¢ each + 4.2% on the battery,"Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",9903.88.15,7.5,91081940,910819,91
+9108.19.80,Other,53¢ each + 3.9% on the battery,"Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",9903.88.15,7.5,91081980,910819,91
 9109.10.10,With opto-electronic display only,3.9% on the movement + 5.3% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",,0.0,91091010,910910,91
-9109.10.20,Measuring not over 50 mm in width or diameter,30¢ each + 5.3% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",,0.0,91091020,910910,91
+9109.10.20,Measuring not over 50 mm in width or diameter,30¢ each + 5.3% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",9903.88.15,7.5,91091020,910910,91
 9109.10.30,Valued not over $5 each,7.5¢ each + 3.2% on the movement + 2.6% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO, KR,MA, OM,P,PA,PE,S,SG)",,0.0,91091030,910910,91
-9109.10.40,Valued over $5 each,22¢ each + 3.2% on the movement + 2.6% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",,0.0,91091040,910910,91
-9109.10.50,With opto-electronic display only,3.9% on the movement + 5.3% on the battery,"Free (A+,AU,BH, C,CL,CO,D,E, IL,JO,KR,MA,OM,P, PA,PE,S,SG) ",,0.0,91091050,910910,91
+9109.10.40,Valued over $5 each,22¢ each + 3.2% on the movement + 2.6% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",9903.88.15,7.5,91091040,910910,91
+9109.10.50,With opto-electronic display only,3.9% on the movement + 5.3% on the battery,"Free (A+,AU,BH, C,CL,CO,D,E, IL,JO,KR,MA,OM,P, PA,PE,S,SG) ",9903.88.15,7.5,91091050,910910,91
 9109.10.60,Measuring not over 50 mm in width or diameter,20¢ each + 3.5% on the battery,"Free (A+,AU,BH, C,CL,CO,D,E, IL,JO,KR,MA,OM,P, PA,PE,S,SG) ",,0.0,91091060,910910,91
 9109.10.70,Valued not over $5 each,12¢ each + 5.1% on the movement + 4.2% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",,0.0,91091070,910910,91
-9109.10.80,Valued over $5 each,30¢ each + 4.3% on the movement + 3.5% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S, SG) ",,0.0,91091080,910910,91
+9109.10.80,Valued over $5 each,30¢ each + 4.3% on the movement + 3.5% on the battery,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S, SG) ",9903.88.15,7.5,91091080,910910,91
 9201.10.00,Upright pianos,4.7%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,92011000,920110,92
 9201.20.00,Grand pianos,4.7%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,92012000,920120,92
 9205.10.00,Brass-wind instruments,2.9%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,92051000,920510,92
@@ -3275,7 +3275,7 @@ htsno,description,general,special,CN_subheading,CN_tariff,hs8,hs6,hs2
 9614.00.98,Other,0.5¢ each + 3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.15,7.5,96140098,961400,96
 9619.00.15,"Of paper, cellulose wadding or webs of cellulose fibers",Free,,9903.88.15,7.5,96190015,961900,96
 9620.00.30,"Accessories for the instruments and appliances, including rangefinders, of heading 9015",The rate applicable to the article of which it is an accessory,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",9903.88.03,25.0,96200030,962000,96
-9705.10.00,"Collections and collectors’ pieces of archaeological, ethnographic or historical interest",Free,,,0.0,97051000,970510,97
+9705.10.00,"Collections and collectors’ pieces of archaeological, ethnographic or historical interest",Free,,9903.88.15,7.5,97051000,970510,97
 9705.31.00,Of an age exceeding 100 years ,Free,,9903.88.15,7.5,97053100,970531,97
 9705.39.00,Other,Free,,9903.88.15,7.5,97053900,970539,97
 9706.10.00,Of an age exceeding 250 years,Free,,9903.88.15,7.5,97061000,970610,97
@@ -5929,7 +5929,7 @@ ethoxyethyl ester) (CAS No. 126877-06-3) (provided for in subheading 3204.11.35)
 9903.88.13,"Articles the product of China, as provided for in U.S. note 20(p) to this subchapter, each covered by an exclusion granted by the U.S. Trade Representative",The duty provided in the applicable subheading,,,0.0,99038813,990388,99
 9903.88.14,"Articles the product of China, as provided for in U.S. note 20(q) to this subchapter, each covered by an exclusion granted by the U.S. Trade Representative",The duty provided in the applicable subheading,,,0.0,99038814,990388,99
 9903.88.15,"Except as provided in headings 9903.88.39, 9903.88.42, 9903.88.44, 9903.88.47, 9903.88.49, 9903.88.51, 9903.88.53, 9903.88.55, 9903.88.57, 9903.88.65, 9903.88.66, 9903.88.67 or 9903.88.68, articles the product of China, as provided for in U.S. note 20(r) to this subchapter and as provided for in the subheadings enumerated in U.S. note 20(s)",The duty provided in the applicable subheading + 7.5%,,,0.0,99038815,990388,99
-9903.88.16,"Articles the product of China, as provided for in U.S. note 20(t) to this subchapter and as provided for in the subheadings enumerated in U.S. note 20(u) <b>[Compiler's note: provision suspended.]</b>",The duty provided in the applicable subheading + 15%,,,0.0,99038816,990388,99
+9903.88.16,"Articles the product of China, as provided for in U.S. note 20(t) to this subchapter and as provided for in the subheadings enumerated in U.S. note 20(u) <b>[Compiler's note: provision suspended.]</b>",The duty provided in the applicable subheading + 15%,,9903.88.16,0.0,99038816,990388,99
 9903.88.17,"Articles the product of China, as provided for in U.S. note 20(v) to this subchapter, each covered by an exclusion granted by the U.S. Trade Representative",The duty provided in the applicable subheading,,,0.0,99038817,990388,99
 9903.88.18,"Articles the product of China, as provided for in U.S. note 20(w) to this subchapter, each covered by an exclusion granted by the U.S. Trade Representative",The duty provided in the applicable subheading,,,0.0,99038818,990388,99
 9903.88.19,"Articles the product of China, as provided for in U.S. note 20(x) to this subchapter, each covered by an exclusion granted by the U.S. Trade Representative",The duty provided in the applicable subheading,,,0.0,99038819,990388,99

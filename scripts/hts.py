@@ -50,8 +50,8 @@ class Product:
 
         try:
             # try to extract footnote
-            footnote_text = self.footnotes[0].get("value")
-            heading = re.findall(r"9903\.88\.\d{2}", footnote_text)[0]
+            footnote_texts = "".join([fn.get("value") for fn in self.footnotes])
+            heading = re.findall(r"9903\.88\.\d{2}", footnote_texts)[0]
             return (heading, tariffs.get_CN_tariff(heading))
         except:
             # no footnote found
